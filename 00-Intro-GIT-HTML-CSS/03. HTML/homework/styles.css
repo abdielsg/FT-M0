@@ -1,0 +1,29 @@
+#thirdDIV {
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border-color: sandybrown;
+    border-style:solid;
+    border-radius: 3px;
+    }
+    #spanId {
+    font-size: 18px;
+    margin: 50px;
+    
+    }
+    .divClass {
+    margin: 1px;
+    
+    }
+    h1 {
+        color:red;
+    
+    }
+    img {
+        width: 400px;
+    }
+
+    body {
+        background-image: url("https://thumbs.dreamstime.com/b/vieja-textura-o-fondo-del-papel-de-la-página-del-vintage-68592015.jpg");
+        
+    }
