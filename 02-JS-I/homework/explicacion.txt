@@ -1,0 +1,27 @@
+Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+
+    Variables.- Son aquellos DATOS CAMBIANTES. Por ejemplo tu amigo Raul, un dia lleva al partido de futbol camisa VERDE y otro dia camisa ROJA, el VARIA su camisa. Por lo tanto digamos que 
+    CAMISA = verde, pero tambien puede ser Camisa =ROJA
+
+    Strings: Son cadenas de texto, son conjuntos de letras. y se representan entre comillas, como por ejemplo "Hola" 
+
+    Funciones: Son palabras que tendran una funcion Por ejemplo tu te llamas Abraham, digamos que la funcion Abraham cuando la invoco como a tus pokemones, va a ir a tender la cama, 
+    pero la funcion Josue, va a barrer el cuarto. Ahora los argumentos, es algo que te voy a dar para que hagas tu funcion, algo que tu necesitas, por ejemplo , te invoco, y te paso una colcha verde.
+    Tu tenderas la cama con la colcha verde, si no te paso algo, no puedes tender la cama, y el RETURN, es lo que tu me contestas. si te paso la colcha verde, puedes tender la cama y me contestas
+    que ya lo has hecho, y si no te paso la colcha (ARGUMENTO) me dices (RETURN) que no puedes tender la cama.
+
+
+    Declaraciones: If ,,, Todos los dias tomas decisiones, if va a evaluar una decision , es un SI hago esto  pasa esto , por ejemplo, si te portas mal, no hay nintendo, si te portas bien, puede jugar un rato.
+        
+        Valores booleanos: SOn aquellos que solo tienen 2 respuestas: falso o verdadero. No hay mas es un si o un no.
+
+        Hiciste la tarea, si(true) no(false)
+
+        asi de simple, nada de que solo hiciste la mitad de la tarea,   la terminaste si o no.
+
+        
